@@ -1,1 +1,1 @@
-# terraform-workspace
+# kafka-course
